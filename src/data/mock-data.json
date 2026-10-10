@@ -1,0 +1,422 @@
+{
+  "flights": [
+    {
+      "id": "flt-indigo-6247",
+      "airline": "IndiGo",
+      "flight_number": "6E-6247",
+      "origin": "BLR",
+      "origin_city": "Bengaluru",
+      "destination": "COK",
+      "destination_city": "Kochi (Munnar Gateway)",
+      "departure": "08:15",
+      "arrival": "09:25",
+      "duration": "1h 10m",
+      "stops": "Non-stop",
+      "price": "₹4,180",
+      "price_raw": 4180,
+      "badge": "Cheapest",
+      "tagline": "Best Value · 1h 10m Non-stop",
+      "note": "Aisle seat reservation verified"
+    },
+    {
+      "id": "flt-indigo-204",
+      "airline": "IndiGo",
+      "flight_number": "6E-204",
+      "origin": "BLR",
+      "origin_city": "Bengaluru",
+      "destination": "COK",
+      "destination_city": "Kochi",
+      "departure": "08:15",
+      "arrival": "09:25",
+      "duration": "1h 10m",
+      "stops": "Non-stop",
+      "price": "₹4,180",
+      "price_raw": 4180,
+      "badge": "Cheapest",
+      "tagline": "Morning departure · High punctuality",
+      "note": "Standard economy baggage included"
+    },
+    {
+      "id": "flt-airindia-582",
+      "airline": "Air India",
+      "flight_number": "AI-582",
+      "origin": "BLR",
+      "origin_city": "Bengaluru",
+      "destination": "COK",
+      "destination_city": "Kochi (Munnar Gateway)",
+      "departure": "06:45",
+      "arrival": "07:55",
+      "duration": "1h 10m",
+      "stops": "Non-stop",
+      "price": "₹4,450",
+      "price_raw": 4450,
+      "badge": "Fastest",
+      "tagline": "Early bird · Extra legroom option",
+      "note": "Complimentary light snack included"
+    },
+    {
+      "id": "flt-akasa-1362",
+      "airline": "Akasa Air",
+      "flight_number": "QP-1362",
+      "origin": "BLR",
+      "origin_city": "Bengaluru",
+      "destination": "COK",
+      "destination_city": "Kochi (Munnar Gateway)",
+      "departure": "12:40",
+      "arrival": "13:55",
+      "duration": "1h 15m",
+      "stops": "Non-stop",
+      "price": "₹3,920",
+      "price_raw": 3920,
+      "badge": "Lowest Base",
+      "tagline": "Afternoon departure · USB fast charging",
+      "note": "Onboard cafe pre-order available"
+    },
+    {
+      "id": "flt-goa-indigo-812",
+      "airline": "IndiGo",
+      "flight_number": "6E-812",
+      "origin": "BOM",
+      "origin_city": "Mumbai",
+      "destination": "GOI",
+      "destination_city": "Goa (Dabolim)",
+      "departure": "07:30",
+      "arrival": "08:45",
+      "duration": "1h 15m",
+      "stops": "Non-stop",
+      "price": "₹3,450",
+      "price_raw": 3450,
+      "badge": "Cheapest",
+      "tagline": "Quick coastal hop",
+      "note": "Direct express route"
+    }
+  ],
+  "hotels": [
+    {
+      "id": "hot-lockhart-bungalow",
+      "name": "Lockhart Heritage Tea Bungalow",
+      "location": "Lockhart Tea Valleys & Gap, Munnar",
+      "distance": "Altitude: 1,620m",
+      "rating": 4.8,
+      "reviews_count": 312,
+      "price_per_night": "₹8,400",
+      "price_per_night_raw": 8400,
+      "nights": 3,
+      "total_price": "₹25,200",
+      "amenities": ["Historic Colonial Suite", "Private Tea Tasting", "Mountain Balcony", "Fireplace Lounge", "Breakfast Included"],
+      "image_key": "resort",
+      "badge": "Handpicked Stay",
+      "description": "Preserved 1928 Scottish planter bungalow offering panoramic vistas over Lockhart Gap, artisanal wood furnishings, and bespoke tea-infused dining."
+    },
+    {
+      "id": "hot-windermere-estate",
+      "name": "Windermere Estate",
+      "location": "Munnar Tea Valleys",
+      "distance": "Altitude: 1,550m",
+      "rating": 4.8,
+      "reviews_count": 489,
+      "price_per_night": "₹8,400",
+      "price_per_night_raw": 8400,
+      "nights": 3,
+      "total_price": "₹25,200",
+      "amenities": ["Free WiFi", "Breakfast Included", "Valley View Deck", "Cardamom Orchard Walk"],
+      "image_key": "hills",
+      "badge": "Popular",
+      "description": "Quiet hilltop retreat overlooking cardamom plantations and high mountain ranges, known for intimate hospitality and birdwatching."
+    },
+    {
+      "id": "hot-high-ridge-sanctuary",
+      "name": "High Ridge Cloud Sanctuary",
+      "location": "Chokanad Ridge, Munnar",
+      "distance": "Altitude: 1,780m",
+      "rating": 4.9,
+      "reviews_count": 184,
+      "price_per_night": "₹9,200",
+      "price_per_night_raw": 9200,
+      "nights": 3,
+      "total_price": "₹27,600",
+      "amenities": ["Infinity Cloud Pool", "High Altitude Deck", "Private Chef Dining", "Guided Treks"],
+      "image_key": "resort",
+      "badge": "Luxury Haven",
+      "description": "Architect-designed stone chalets perched above the mist line with floor-to-ceiling glass pavilions."
+    },
+    {
+      "id": "hot-cardamom-glamping",
+      "name": "Cardamom Glamping Retreat",
+      "location": "Chithirapuram Valley, Munnar",
+      "distance": "Altitude: 1,450m",
+      "rating": 4.7,
+      "reviews_count": 220,
+      "price_per_night": "₹6,800",
+      "price_per_night_raw": 6800,
+      "nights": 3,
+      "total_price": "₹20,400",
+      "amenities": ["Luxury Geodesic Domes", "Campfire & Stargazing", "Organic Plantation Buffet", "Kayaking"],
+      "image_key": "hills",
+      "badge": "Eco Luxury",
+      "description": "Eco-sensitive safari tents with climate control, natural spring baths, and direct trails into shaded pepper and cardamom groves."
+    },
+    {
+      "id": "hot-goa-seabreeze",
+      "name": "Sea Breeze Heritage Villa",
+      "location": "Candolim Beach Strip, North Goa",
+      "distance": "250m to beach",
+      "rating": 4.7,
+      "reviews_count": 410,
+      "price_per_night": "₹4,200",
+      "price_per_night_raw": 4200,
+      "nights": 3,
+      "total_price": "₹12,600",
+      "amenities": ["Poolside Bar", "Free High-Speed WiFi", "Breakfast Included", "Scooter Rental Assist"],
+      "image_key": "resort",
+      "badge": "Best Budget",
+      "description": "Portuguese-era villa renovated with modern chic suites, tropical pool garden, and walking distance to quiet beaches."
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-lockhart-tea-factory",
+      "title": "Lockhart Tea Estate, Historic Factory & Ridge Trail",
+      "category": "Cultural & Heritage",
+      "duration": "2.5 hours",
+      "recommended_time": "10:45 AM - 01:15 PM",
+      "day": 2,
+      "price": "₹650",
+      "price_raw": 650,
+      "rating": 4.8,
+      "reviews_count": 428,
+      "image_key": "tasting",
+      "experience": "Founded in 1879, Lockhart is one of the oldest operational orthodox tea factories in southern India. Walk through aromatic rolling machines, fermentation beds, and complete your session with artisanal cupping led by tea master Anand.",
+      "practical_logistics": [
+        "Elevation: 1,620m above sea level",
+        "Entry permit & safety hairnet included",
+        "Moderate 20-min estate ridge walk (comfortable sneakers recommended)"
+      ],
+      "field_note": "\"The 11 AM cupping slot is magical as morning clouds break over Lockhart Gap. Taste the imperial green and rare silver needle picking before the noon mist arrives.\" — Anand, Resident Tea Sommelier",
+      "synergy": "Pairs directly with Lockhart Gap Scenic Overlook chauffeur stop."
+    },
+    {
+      "id": "act-tea-museum",
+      "title": "Tea Museum & Lockhart Factory",
+      "category": "Cultural",
+      "duration": "2 hours",
+      "recommended_time": "09:00 AM - 11:00 AM",
+      "day": 1,
+      "price": "₹450",
+      "price_raw": 450,
+      "rating": 4.7,
+      "reviews_count": 310,
+      "image_key": "tasting",
+      "experience": "Chronicle the pioneering transformation of the High Ranges from wilderness to lush plantations through vintage photographs, antique machinery, and tasting displays.",
+      "practical_logistics": [
+        "Audio guide available in English, Hindi & Malayalam",
+        "Wheelchair accessible ground floor"
+      ],
+      "field_note": "\"Arrive right at opening to avoid tour coaches.\" — Local Field Lead",
+      "synergy": "Ideal orientation on Day 1."
+    },
+    {
+      "id": "act-kolukkumalai-sunrise",
+      "title": "Kolukkumalai & High Ridge Sunrise Circuit",
+      "category": "Adventure 4x4",
+      "duration": "4.5 hours",
+      "recommended_time": "04:30 AM - 09:00 AM",
+      "day": 3,
+      "price": "₹1,200",
+      "price_raw": 1200,
+      "rating": 4.9,
+      "reviews_count": 670,
+      "image_key": "hills",
+      "experience": "Ascend to the world's highest organic tea estate at 7,900 feet in an open rugged 4x4 jeep through tea terraces into Tamil Nadu border clouds for sunrise above the clouds.",
+      "practical_logistics": [
+        "Warm fleece jacket mandatory (temperatures drop to 10°C)",
+        "Bumpy off-road mountain route (not recommended for severe motion sickness)"
+      ],
+      "field_note": "\"Watch the golden sun burst across the Meesapulimala ridges while drinking hot cardamom tea at the peak.\" — Anand",
+      "synergy": "Includes mountain trail permit and jeep guide."
+    },
+    {
+      "id": "act-chithirapuram-picnic",
+      "title": "Chithirapuram Valley Mountain Picnic",
+      "category": "Leisure & Culinary",
+      "duration": "2 hours",
+      "recommended_time": "01:30 PM - 03:30 PM",
+      "day": 2,
+      "price": "₹850",
+      "price_raw": 850,
+      "rating": 4.8,
+      "reviews_count": 195,
+      "image_key": "resort",
+      "experience": "Private shaded pavilion spread with Kerala malabar parottas, slow-cooked vegetable ishtu, and fresh tropical passionfruit cordial overlooking terraced pepper vines.",
+      "practical_logistics": [
+        "Vegetarian & vegan menus available upon request",
+        "Includes picnic basket and artisanal linen set"
+      ],
+      "field_note": "\"Quiet, tranquil haven midway between Lockhart and Munnar town.\" — Guide Note",
+      "synergy": "Seamless afternoon pause after Lockhart Tea Cupping."
+    },
+    {
+      "id": "act-chokanad-ridge-walk",
+      "title": "Chokanad Ridge Walk & Photo Point",
+      "category": "Trekking & Nature",
+      "duration": "1.5 hours",
+      "recommended_time": "04:30 PM - 06:00 PM",
+      "day": 2,
+      "price": "₹500",
+      "price_raw": 500,
+      "rating": 4.7,
+      "reviews_count": 142,
+      "image_key": "hills",
+      "experience": "Sunset mountain walk along high elevation contours with sweeping vistas of Anamudi peak and the lower valleys bathed in lilac and amber sunset mist.",
+      "practical_logistics": [
+        "Gradual 180m elevation gain on cleared trails",
+        "Depart before dusk fog thickens (Ranger advisory)"
+      ],
+      "field_note": "\"The sunset colors from here are why the valley is nicknamed the Lilac Haven.\" — Local Ranger",
+      "synergy": "Day 2 golden hour grand finale before dinner transfer."
+    }
+  ],
+  "itinerary_days": [
+    {
+      "day_number": 1,
+      "title": "Arrival & High Elevation Ascent",
+      "date_label": "Day 1 · Friday",
+      "summary": "Touchdown at Kochi (COK), scenic Ghat road chauffeur climb through Cheeyappara waterfalls, check-in at Lockhart Heritage Tea Bungalow, and evening veranda orientation.",
+      "activities": [
+        {
+          "time": "09:25 AM",
+          "title": "Flight Arrival IndiGo 6E-6247",
+          "subtitle": "Kochi International Airport (COK)",
+          "type": "flight",
+          "badge": "Landed",
+          "details": "Luggage collected at Belt 3. Meet Chauffeur Rajesh Nair at Gate 4."
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Scenic Ghat Road Chauffeur Transfer",
+          "subtitle": "Kochi to Munnar High Ridge (118 km · 3.5 hrs)",
+          "type": "transit",
+          "badge": "Private SUV",
+          "details": "Comfortable AC Innova Crysta, photo stop at Cheeyappara Waterfalls, complimentary mountain ginger tea."
+        },
+        {
+          "time": "02:30 PM",
+          "title": "Check-in: Lockhart Heritage Tea Bungalow",
+          "subtitle": "Scottish Planter Heritage Suite",
+          "type": "hotel",
+          "badge": "Confirmed",
+          "details": "Welcome spiced cardamom drink, fireplace suite setup, luggage unpacked."
+        },
+        {
+          "time": "04:30 PM",
+          "title": "Estate Garden Walk & Veranda Tea",
+          "subtitle": "Lockhart Valley Private Trails",
+          "type": "activity",
+          "badge": "Relaxed",
+          "details": "Gentle stroll through flower gardens and estate history primer."
+        }
+      ]
+    },
+    {
+      "day_number": 2,
+      "title": "Lockhart Mist & Tea Master Expedition",
+      "date_label": "Day 2 · Saturday",
+      "summary": "Planter's veranda breakfast, exclusive 1879 Lockhart Tea Factory cupping with sommelier Anand, valley picnic, and sunset Chokanad ridge trek.",
+      "activities": [
+        {
+          "time": "08:30 AM",
+          "title": "Breakfast at Colonial Bungalow",
+          "subtitle": "Lockhart Heritage Dining Hall",
+          "type": "food",
+          "badge": "Included",
+          "details": "Fresh appams with coconut stew, orchard honey, fresh-ground Nilgiri estate roast coffee."
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Chauffeur Transfer via Lockhart Gap",
+          "subtitle": "Scenic 15-min valley route",
+          "type": "transit",
+          "badge": "Private SUV",
+          "details": "High altitude viewpoint stop with cloud inversion photography window."
+        },
+        {
+          "time": "10:45 AM",
+          "title": "Lockhart Tea Factory & Ridge Cupping",
+          "subtitle": "1879 Orthodox CTC Factory & High Trails",
+          "type": "activity",
+          "badge": "Featured Experience",
+          "details": "Artisanal tea evaluation session led by sommelier Anand. Includes sampling of rare silver needle and imperial green picks.",
+          "activity_id": "act-lockhart-tea-factory",
+          "has_media": true
+        },
+        {
+          "time": "01:30 PM",
+          "title": "Chithirapuram Valley Picnic",
+          "subtitle": "Terraced Spice Garden Pavilion",
+          "type": "food",
+          "badge": "Gourmet Pause",
+          "details": "Curated Kerala artisanal lunch basket amidst mountain pepper vines.",
+          "activity_id": "act-chithirapuram-picnic"
+        },
+        {
+          "time": "04:30 PM",
+          "title": "Chokanad Ridge Walk & Photo Point",
+          "subtitle": "Sunset Contour Trail (1.5 hrs)",
+          "type": "activity",
+          "badge": "Golden Hour",
+          "details": "Panoramic high-elevation vistas over Anamudi peaks before evening Ghat fog.",
+          "activity_id": "act-chokanad-ridge-walk"
+        },
+        {
+          "time": "07:30 PM",
+          "title": "Fireside Dinner at Bungalow",
+          "subtitle": "Lockhart Hearth Lounge",
+          "type": "food",
+          "badge": "Leisure",
+          "details": "Woodfire hearth dining with slow-roasted spiced mountain delicacies."
+        }
+      ]
+    },
+    {
+      "day_number": 3,
+      "title": "Kolukkumalai Sunrise & Cloudline Circuit",
+      "date_label": "Day 3 · Sunday",
+      "summary": "Predawn 4x4 rugged jeep climb to 7,900 ft Kolukkumalai peak, sunrise over misty peaks, local handicraft stop, and afternoon Kochi return transfer.",
+      "activities": [
+        {
+          "time": "04:30 AM",
+          "title": "4x4 Jeep Safari: Kolukkumalai Sunrise",
+          "subtitle": "7,900 ft Mountain Cloud Peak",
+          "type": "activity",
+          "badge": "Adventure 4x4",
+          "details": "Ascend the world's highest tea plantation for sunrise above cloud blankets. Hot cardamom tea at the peak.",
+          "activity_id": "act-kolukkumalai-sunrise"
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Late Brunch & Spa Revival",
+          "subtitle": "Lockhart Estate Ayurveda Pavilion",
+          "type": "relaxation",
+          "badge": "Wellness",
+          "details": "Warm herbal compresses and traditional Kerala herbal massage."
+        },
+        {
+          "time": "01:00 PM",
+          "title": "Check-out & Return Ghat Descent to Kochi",
+          "subtitle": "Chauffeur Transfer to COK Airport",
+          "type": "transit",
+          "badge": "Private SUV",
+          "details": "Stop at Mattupetty artisanal spices bazaar for farm-direct green cardamom and cloves."
+        },
+        {
+          "time": "06:30 PM",
+          "title": "Departure Flight IndiGo 6E-204",
+          "subtitle": "Kochi International Airport (COK)",
+          "type": "flight",
+          "badge": "On Schedule",
+          "details": "Boarding at Gate 5 for return journey."
+        }
+      ]
+    }
+  ]
+}

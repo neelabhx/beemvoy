@@ -1,0 +1,6 @@
+{
+  "name": "BEEMVOY - AI Travel Planner",
+  "description": "India-first natural-language travel planning MVP with flights, hotels, and day-by-day interactive itinerary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
